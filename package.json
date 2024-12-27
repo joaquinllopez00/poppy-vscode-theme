@@ -4,6 +4,7 @@
   "description": "A tame VSCode theme with a tasteful balance of tame and popping colors",
   "version": "0.0.1",
   "publisher": "JoaquinLopez",
+  "icon": "icon.png",
   "engines": {
     "vscode": "*"
   },
