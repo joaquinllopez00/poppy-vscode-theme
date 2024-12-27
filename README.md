@@ -1,16 +1,24 @@
-# poppy README
+# Poppy Theme
 
-## Working with Markdown
+## Installation
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+1. Open the Extensions sidebar in VS Code. `View -> Extensions`
+2. Search for `Poppy Theme` and select `Poppy Theme` by Joaquin Lopez
+3. Click _Install_
 
 ## For more information
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+- [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
+- [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
+
+---
+
+### Java
+
+![CleanShot 2024-12-27 at 15 39 43](https://github.com/user-attachments/assets/45b2ffe2-0614-468c-8f63-a8472fa7957f)
+
+### Typescript / React / Remix
+
+![CleanShot 2024-12-27 at 15 42 56](https://github.com/user-attachments/assets/b3639d34-71be-42bf-ab3f-56baa54af664)
