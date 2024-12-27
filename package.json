@@ -1,0 +1,26 @@
+{
+  "name": "poppy",
+  "displayName": "poppy",
+  "description": "A tame VSCode theme with a tasteful balance of tame and popping colors",
+  "version": "0.0.1",
+  "publisher": "JoaquinLopez",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaquinllopez00/poppy-vscode-theme"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Poppy Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Poppy Theme-color-theme.json"
+      }
+    ]
+  }
+}
